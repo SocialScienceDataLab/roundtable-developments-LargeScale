@@ -16,7 +16,9 @@ Arne Bethmann
 
 The Zweitstimme.org project presents a comprehensive approach to forecasting the 2025 German federal election, combining multiple methodologies to predict both party vote shares (Zweitstimme) and constituency-level outcomes (Erststimme). This presentation showcases three distinct forecasting approaches: a dynamic Zweitstimme model, a proportional swing Erststimme model, and citizen forecasting. The project also communicated the forecasts and their uncertainties to the public, with results being shared in various media outlets.
 
-📝 [Slides](https://github.com/SocialScienceDataLab/forecast-german-election-2025/blob/main/mannheim-zweitstimme-btw25.pdf)
+📝 [Slides 1](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/SHARE_Roundtable.pdf)
+📝 [Slides 2](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/SHARE_Roundtable.pdf)
+📝 [Slides 3](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/SHARE_Roundtable.pdf) 
 
 ## About the Instructor
 
