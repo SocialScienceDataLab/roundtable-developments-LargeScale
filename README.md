@@ -20,6 +20,8 @@ The roundtable brings together researchers from leading institutes and survey pr
 📝 [Slides 1](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/SHARE_Roundtable.pdf)
 📝 [Slides 2](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/IAB_FDZ_Roundtable.pdf)
 📝 [Slides 3](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/GLEN_Roundtable.pdf) 
+📝 [Slides 4](https://github.com/SocialScienceDataLab/roundtable-developments-LargeScale/blob/main/Christmann%202025_FReDA.pdf) 
+
 
 ## About the Instructor
 
